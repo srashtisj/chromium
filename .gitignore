@@ -277,3 +277,6 @@ vs-chromium-project.txt
 /win8/metro_driver/metro_driver_version_resources.xml
 /x86-generic_out/
 /xcodebuild
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
